@@ -1,5 +1,4 @@
 [![NPM](https://img.shields.io/npm/v/celesjs-ecc.svg)](https://www.npmjs.org/package/celesjs-ecc)
-[![Build Status](https://travis-ci.org/celes-dev/celesjs-ecc.svg?branch=master)](https://travis-ci.org/celes-dev/celesjs-ecc)
 
 # Elliptic curve cryptography functions (ECC)
 
